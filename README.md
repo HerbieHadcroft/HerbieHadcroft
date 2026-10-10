@@ -1,4 +1,8 @@
-## Hi there 👋
+## Herbie Hadcroft
+**About Me** \n
+Studying Cybersecurity And Digital Forensics at LBU
+First Year
+
 
 <!--
 **HerbieHadcroft/HerbieHadcroft** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
